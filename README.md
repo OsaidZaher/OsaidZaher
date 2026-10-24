@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OsaidZaher
-- 👀 I’m interested in reading, BJJ and the gym
+- 👀 I’m interested in reading, mma and the gym
 - 🌱 I’m currently learning to create different Neural Networks!
 - 📫 How to reach me ; good question 🤔
 - 😄 Pronouns: he/him
