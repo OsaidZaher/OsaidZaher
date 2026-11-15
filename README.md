@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @OsaidZaher
 - 👀 I’m interested in reading, mma and the gym
-- 🌱 I’m currently learning to create different Neural Networks!
+- 💻 I'm returning to Amazon as a full-time SDE!
 - 📫 How to reach me ; good question 🤔
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: When you say fun fact people pay attention! 
 
 <!---
